@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning Java Script
+- 🌱 JavaScript , React.js
 - 📫 How to reach me : itssorenadev@gmail.com
 
 
