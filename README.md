@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm Currently Working on DuckPump<br><br>🌱I'm Currently learning Typescript 
+🔭I'm Currently Working on DuckPump On the Telegram Hackaton Event<br><br>🌱I'm Currently learning Typescript <br>✨ And Also Working On My Own Project , A Full Future Shop Webapp
 
 
 ## 🌐 Socials:
