@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭I'm Currently Working on DuckPump On My Own Project , A Full Future Shop Webapp<br><br>🌱I'm Currently learning Typescript 
-<br>
+🔭I'm Currently Working On My Own Project , A Full Future Shop Webapp<br><br>🌱I'm Currently learning Typescript 
+<br><br>
 My-Portfolio:
 <br>
 https://sorena-salehi-portfolio.netlify.app/
