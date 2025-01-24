@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm Currently Working On My Own Project , A Full Future Shop Webapp<br><br>🌱I'm Currently learning Typescript 
+🔭I'm Currently Working On My Own Project , A Full Future Shop Webapp<br><br>🌱And I'm learning Typescript At The moment
 <br><br>
 My-Portfolio:
 <br>
