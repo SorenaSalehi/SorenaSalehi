@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm Currently Working On My Own Project , A Full Future Shop Webapp<br><br>🌱And I'm learning Typescript At The moment<br><br>My-Portfolio:<br>https://somer-portfolio.netlify.app/
+https://somer-portfolio.netlify.app/
 
 
 ## 🌐 Socials:
